@@ -6,4 +6,9 @@ public class Student {
 		System.out.println("student clas is created");
 	}
 
+	@Test
+	public void testCapaign() {
+		System.out.println(" Virat kohli is working on tc 4,5");
+	}
+
 }
