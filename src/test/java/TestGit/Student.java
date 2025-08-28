@@ -14,4 +14,9 @@ public class Student {
 	}
 	
 
+	@Test
+	public void testCapaign() {
+		System.out.println(" Virat kohli is working on tc 4,5");
+	}
+
 }
